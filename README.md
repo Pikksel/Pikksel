@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Pikksel
 - 👀 I’m interested in Coding!
-- 🌱 I’m currently learning Javascript/css
+- 🌱 I’m currently learning Javascript and C#
 
 
 
